@@ -1,0 +1,1 @@
+I used codeSandbox to make this and these are just code required to add into there , in codeSandbox app1.tsx index.css are empty and rest are unchanged. Images used in this can be altered and for the button messages the array at the top can be used to change the string
